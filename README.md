@@ -1,1 +1,0 @@
-# medical_image_recognition

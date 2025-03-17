@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.31.0
+Pillow>=10.0.0
+# requests>=2.31.0
+openai>=1.57.0
+zhipuai>=2.0.0 
+tencentcloud-sdk-python>=3.0.1337
